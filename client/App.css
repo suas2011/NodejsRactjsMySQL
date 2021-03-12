@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid;
+  border-radius: 5px;
+  border-color: maroon;
+  background-color: rgb(243, 194, 144);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.form input {
+  width: 400;
+  height: 150;
+  margin: 20;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.form label {
+  width: 400;
+  height: 150;
+  margin: 20;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.form button {
+  width: 400;
+  height: 150;
+  margin: 20;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.card {
+  width: 300px;
+  height: 150px;
+  border: solid;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+#updateInput {
+  width: 100px;
+  height: 50px;
+  margin-bottom: 10px;
+}
